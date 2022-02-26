@@ -9,7 +9,7 @@ from scrapy.loader import ItemLoader
 from drivingdata.items import CarItem
 
 dealer_dict = {}
-with open('Dealers.csv', 'r') as csvfile:
+with open('dealers/MercedesDealers.csv', 'r') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
         dealer_dict[row["dealer_name"]] = row

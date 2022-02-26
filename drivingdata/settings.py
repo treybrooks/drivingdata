@@ -14,7 +14,7 @@ NEWSPIDER_MODULE = 'drivingdata.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'audi_v2 (+http://www.yourdomain.com)'
+#USER_AGENT = 'dirvingdata (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
@@ -63,8 +63,8 @@ ROBOTSTXT_OBEY = False
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-    'mercedes_v2.pipelines.VehicleImagesPipeline': 1,
-    'mercedes_v2.pipelines.CarScraperPipeline': 300,
+    'drivingdata.pipelines.VehicleImagesPipeline': 1,
+    'drivingdata.pipelines.CarScraperPipeline': 300,
 }
 IMAGES_STORE = 'output/images'
 # Enable and configure the AutoThrottle extension (disabled by default)

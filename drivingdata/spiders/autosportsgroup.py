@@ -16,7 +16,7 @@ class AutosportsGroupSpider(scrapy.Spider):
     max_images = 5
 
     def start_requests(self):
-        with open('autosports_dealers.csv', encoding = "ISO-8859-1") as csvfile:
+        with open('..dealers/AutosportsDealers.csv', encoding = "ISO-8859-1") as csvfile:
             reader = csv.DictReader(csvfile)
 
             requests = []

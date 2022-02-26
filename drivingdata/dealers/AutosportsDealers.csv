@@ -1,0 +1,30 @@
+name,fb_page_id,Make,mileage.unit,body_style,drivetrain,availability,latitude,longitude,Address
+Audi Centre Brisbane, ,Audi,KM,Other,Other,Available,-38.0296,145.33226,"{'addr1': '586 Wickham Street', 'city': 'Fortitude Valley', 'region': 'Queensland', 'country': 'Australia'}"
+Audi Centre Mosman, ,Audi,KM,Other,Other,Available,-38.0296,145.33226,"{'addr1': '309 Military Road', 'city': 'Mosman', 'region': 'New South Wales', 'country': 'Australia'}"
+Audi Centre Parramatta, ,Audi,KM,Other,Other,Available,-33.8244,151.23782,"{'addr1': '49-53 Church Street', 'city': 'Parramatta', 'region': 'New South Wales', 'country': 'Australia'}"
+Audi Five Dock, ,Audi,KM,Other,Other,Available,-33.87381,151.12757,"{'addr1': '1 Parramatta Road', 'city': 'Five Dock', 'region': 'New South Wales', 'country': 'Australia'}"
+Audi Indooroopilly, ,Audi,KM,Other,Other,Available,-38.0296,145.33226,"{'addr1': '358 Moggill Road', 'city': 'Indooroopilly', 'region': 'Queensland', 'country': 'Australia'}"
+Audi Sutherland, ,Audi,KM,Other,Other,Available,-34.03057,151.06315,"{'addr1': '668 Old Princes Highway', 'city': 'Sutherland', 'region': 'New South Wales', 'country': 'Australia'}"
+Bentley Brisbane
+Bentley Gold Coast
+Bentley Sydney
+Brighton Land Rover
+Capalaba Volkswagen
+Castle Hill Volkswagen
+Lamborghini Brisbane
+Lamborghini Sydney
+Leichhardt Volkswagen
+Maserati Brisbane
+Maserati Gold Coast
+Mercedes-Benz Hornsby
+Mercedes-Benz Macgregor
+Mercedes-Benz Toowong
+Mt Gravatt Volkswagen
+Prestige Auto Traders Brisbane
+Prestige Auto Traders Sydney
+Sydney City Jaguar
+Sydney City Land Rover
+Toowong Mazda
+Volvo Cars Rushcutters Bay,535459493658539, ,KM,Other,Other,Available,-33.877338,151.228622,"{'addr1': '4 Neild Avenue', 'city': 'Rushcutters Bay', 'region': 'New South Wales', 'country': 'Australia'}"
+Volvo Cars Five Dock,914221068929747, ,KM,Other,Other,Available,-33.8717315,151.1241259,"{'addr1': '155-157 Parramatta Road', 'city': 'Five Dock', 'region': 'New South Wales', 'country': 'Australia'}"
+Volvo Cars Parramatta,2515284975168766, ,KM,Other,Other,Available,-33.823177,151.004333,"{'addr1': '21 Church Street', 'city': 'Parramatta', 'region': 'New South Wales', 'country': 'Australia'}"
